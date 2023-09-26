@@ -1,4 +1,4 @@
-### IBM Qiskit Global Summer School 2023:
+### [IBM_QGSS23: IBM Qiskit Global Summer School 2023](https://github.com/bavba/Quantum_computing/tree/main/IBM_QGSS23)
 
 [Lab 1:](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS23/labs/lab1_qiskit_101.ipynb) Qiskit 101.
 
