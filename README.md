@@ -27,16 +27,10 @@ Tech Stack:
 
 Projects:
 
-Lab 0 -> [Welcome and Hello World](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab0_welcome_and_hello_world.ipynb)
+Lab 1 -> [Quantum Circuit Transpilation](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab1_quantum_circuit_transpilation.ipynb)
 
-Lab 1 -> [Introduction to Qiskit 1.0](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab1_introduction_to_qiskit_10.ipynb)
+Lab 2 -> [Utility-Scale Layer Fidelity Experiment](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab2_utility_scale_layer_fidelity_experiment.ipynb)
 
-Lab 2 -> [The Transpiler](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab2_the_transpiler.ipynb)
+Lab 3 -> [Quantum Error Suppression and Mitigation with Qiskit Runtime](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_quantum_error_suppression_and_mitigation_with_qiskit_runtime.ipynb) 
 
-Lab 3 -> What's Next? [Sneak Preview of AI-Powered Transpilation with Qiskit Transpiler Service](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_I.ipynb) / [Sneak Preview of Qiskit Serverless](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_II.ipynb) / [Sneak Preview of Circuit Knitting Toolbox](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_III.ipynb)
-
-Lab 4 -> [Testing a Variational Quantum Classifier on a real backend](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab4_testing_a_variational_quantum_classifier_on_a_real_backend.ipynb)
-
-Bonus Lab -> [Scaling to 50 qubits](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/bonuslab_scaling_to_50_qubits.ipynb)
-
-
+Lab 4 -> [Simulating Nature at Utility Scale](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab4_simulating_nature_at_utility_scale.ipynb)
