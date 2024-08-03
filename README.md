@@ -33,7 +33,7 @@ Lab 1 -> [Introduction to Qiskit 1.0](https://github.com/bavba/Quantum_computing
 
 Lab 2 -> [The Transpiler](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab2_the_transpiler.ipynb)
 
-Lab 3 -> What's Next? [Sneak Preview of AI-Powered Transpilation with Qiskit Transpiler Service](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_I.ipynb) / [Sneak Preview of Qiskit Serverless](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_II.ipynb) / [Sneak Preview of Circuit Kinitting Toolbox](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_III.ipynb)
+Lab 3 -> What's Next? [Sneak Preview of AI-Powered Transpilation with Qiskit Transpiler Service](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_I.ipynb) / [Sneak Preview of Qiskit Serverless](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_II.ipynb) / [Sneak Preview of Circuit Knitting Toolbox](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab3_whats_next_III.ipynb)
 
 Lab 4 -> [Testing a Variational Quantum Classifier on a real backend](https://github.com/bavba/Quantum_computing/blob/main/IBM_QGSS24/labs/lab4_testing_a_variational_quantum_classifier_on_a_real_backend.ipynb)
 
